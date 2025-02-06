@@ -22,9 +22,14 @@
 <br/> -->
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&vCenter=true&size=18&pause=2000&color=1677FF&center=true&width=435&lines=Infinite+Innovation;%E6%97%A0++%E9%99%90++%E5%88%9B++%E6%96%B0;Innovaci%C3%B3n+infinita;%D0%91%D0%B5%D1%81%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D0%B5+%D0%B8%D0%BD%D0%BD%D0%BE%D0%B2%D0%B0%D1%86%D0%B8%D0%B8;Innovation+Infinite;%D8%A7%D8%A8%D8%AA%D9%83%D8%A7%D8%B1+%D9%84%D8%A7%D9%86%D9%87%D8%A7%D8%A6%D9%8A)
-
 </div>
-<br/>
+
+<div align="center">
+<a href="https://www.bilibili.com/video/BV1fSFYeUEod/?vd_source=2b7d1a40c69997531fb6f37ac43c9a9b" target="_blank">
+<img src="https://github.com/user-attachments/assets/564ad389-3748-4bd0-9405-007051095d1f" align="center" style="width: 85%;">
+</a>
+</div>
+
 
 ### <div align="center">My Skill</div>
 
