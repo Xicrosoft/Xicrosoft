@@ -30,28 +30,6 @@
 </a>
 </div>
 
-
-### <div align="center">My Skill</div>
-
-#### Language
-
-![My Skills](https://skillicons.dev/icons?i=py,cs,cpp,c,java,html,css,ruby,rust,js,php,java,dart,bash,swift,go&theme=light&perline=50)
-
-#### Platform
-
-![My Skills](https://skillicons.dev/icons?i=firebase,tensorflow,azure,kubernetes,googlecloud&theme=light)
-
-#### Framework
-
-![My Skills](https://skillicons.dev/icons?i=dotnet,rails,flask,django,laravel,flutter&theme=light)
-
-#### Other
-
-![My Skills](https://skillicons.dev/icons?i=nginx,mysql,mongodb,electron,nodejs,react,vue,idea&theme=light)
-
-<br/>
-<br/>
-
 ### <div align="center">Github Stats</div>
 
 <div align="center"><table><tr><td valign="top" width="50%">
